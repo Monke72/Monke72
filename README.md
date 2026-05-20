@@ -1,6 +1,6 @@
 ﻿# Артём Хажметов — Frontend-разработчик
 
-Frontend-разработчик с 3 годами коммерческого опыта. Специализируюсь на создании SPA с использованием React, TypeScript, Redux Toolkit и React Query.
+Frontend-разработчик с 5 годами коммерческого опыта. Специализируюсь на создании SPA с использованием React, TypeScript, Redux Toolkit и React Query.
 
 Опыт работы:
 
